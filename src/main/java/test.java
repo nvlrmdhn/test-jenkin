@@ -3,6 +3,7 @@ import java.util.Scanner;
 public class test {
 
     public static void main(String[] args) {
+        System.out.println("===Latihan===");
         Scanner s = new Scanner(System.in);
         System.out.print("Jam Masuk         : ");
         int jamMasuk = s.nextInt();
