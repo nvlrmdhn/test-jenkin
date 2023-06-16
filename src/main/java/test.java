@@ -43,5 +43,6 @@ public class test {
         System.out.println("===Output===");
         System.out.println("Total jam   : "+totalJam);
         System.out.println("Total harga : "+totalPrice);
+        System.out.println("============");
     }
 }
